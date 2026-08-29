@@ -1,0 +1,52 @@
+[
+{
+"question": "What is the capital of the United States?",
+"options": ["New York", "Washington, D.C.", "Boston", "Chicago"],
+"answer": "Washington, D.C."
+},
+{
+"question": "Which planet is known as the Red Planet?",
+"options": ["Venus", "Jupiter", "Mars", "Saturn"],
+"answer": "Mars"
+},
+{
+"question": "How many continents are there?",
+"options": ["5", "6", "7", "8"],
+"answer": "7"
+},
+{
+"question": "Who wrote Romeo and Juliet?",
+"options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+"answer": "William Shakespeare"
+},
+{
+"question": "What is the largest ocean on Earth?",
+"options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+"answer": "Pacific Ocean"
+},
+{
+"question": "What is 15 × 6?",
+"options": ["80", "90", "100", "110"],
+"answer": "90"
+},
+{
+"question": "Which animal is the largest land animal?",
+"options": ["Giraffe", "Hippopotamus", "African elephant", "Rhinoceros"],
+"answer": "African elephant"
+},
+{
+"question": "What gas do plants absorb from the atmosphere?",
+"options": ["Oxygen", "Nitrogen", "Hydrogen", "Carbon dioxide"],
+"answer": "Carbon dioxide"
+},
+{
+"question": "Which country is home to the Great Wall?",
+"options": ["Japan", "China", "India", "South Korea"],
+"answer": "China"
+},
+{
+"question": "How many sides does a triangle have?",
+"options": ["2", "3", "4", "5"],
+"answer": "3"
+}
+]
